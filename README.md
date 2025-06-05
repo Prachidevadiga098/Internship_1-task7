@@ -1,1 +1,3 @@
 # Internship_1-task7
+
+This project is a simple sales analysis tool built using Python. It uses SQLite to store and manage grocery sales data, including product names, quantities sold, and prices. The script (sales_analysis.py) creates a local database, inserts sample sales records, and then calculates total quantities and revenue per product using SQL queries. It uses Pandas to load and process the data, and Matplotlib to generate a bar chart that visualizes revenue by product. The output includes a printed summary table in the console and a saved image (sales_chart.png) showing the revenue distribution. This tool is useful for small-scale sales reporting and visualization and requires Python along with the Pandas and Matplotlib libraries to run.
